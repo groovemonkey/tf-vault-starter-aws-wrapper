@@ -1,6 +1,6 @@
 *.tfstate
 *.tfstate.backup
 \.terraform.lock.hcl
-#*.hclic
+*.hclic
 \.terraform
 \.pyc
